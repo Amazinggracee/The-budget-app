@@ -88,7 +88,14 @@
 
 .bb-btn {
   color: white;
-
-  /* margin-right: 10rem; */
   margin-left: -5rem;
+}
+
+.sign-out-btn button{
+  background-color: transparent;
+  font-size: 18px;
+  color: white;
+  height: 40px;
+  width: 85px;
+  margin-top: 1%;
 }
