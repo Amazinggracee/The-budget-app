@@ -11,6 +11,7 @@
       <div class="item-header">
         <img class="item-icon" src=<%= @balance.icon %> alt=<%= @balance.name%> >
         <p class="item-name"><%= @balance.name.capitalize%></p>
+        <%= button_to "Delete", @balance, method: :delete, data: { confirm: "Are you sure?" }, class: "btn btn-danger" %>
       </div>
       <% total = 0 %>
       <% @balance.items.each do |item| %>

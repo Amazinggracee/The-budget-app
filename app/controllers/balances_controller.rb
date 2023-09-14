@@ -27,6 +27,12 @@ class BalancesController < ApplicationController
     end
   end
 
+  def destroy
+    @balance = Balance.find(params[:id])
+    @balance.destroy
+    redirect_to root_path, notice: 'Balance was successfully destroyed.'
+  end
+
   private
 
   def authenticate_user!
