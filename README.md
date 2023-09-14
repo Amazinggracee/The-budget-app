@@ -182,6 +182,7 @@ If you like this project kindly give it a star⭐️.
 
 I would like to thank Microverse for the immense support.
 I would also like to thank  Gregoire Vella on Behance for this amazing design!
+I will also want to thank my peers in microverse, especially those that helped me to unblock.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
