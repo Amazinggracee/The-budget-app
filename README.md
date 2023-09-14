@@ -164,7 +164,7 @@ https://www.loom.com/share/b1e142f76e084f68986e84e46f52c274?sid=c45cea74-ef83-4f
 
 Contributions, issues, and feature requests are welcome!
 
-Feel free to check the [Isuues Pages](https://github.com/Amazinggracee/The-budget-app/issues)
+Feel free to check the [Isues Pages](https://github.com/Amazinggracee/The-budget-app/issues)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
