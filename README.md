@@ -181,7 +181,7 @@ If you like this project kindly give it a star⭐️.
 ## 🙏 Acknowledgments <a name="acknowledgements"></a>
 
 I would like to thank Microverse for the immense support.
-I would also like to thank  Gregoire Vella on Behance for this amazing design!
+I would also like to thank  Gregoire Vella on Behance for this amazing design.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
