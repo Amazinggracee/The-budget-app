@@ -3,7 +3,7 @@ Rails.application.routes.draw do
   devise_for :users
 
   # Resourceful routes for Balances and nested Items
-  resources :balances, only: [:index, :show, :new, :create] do
+  resources :balances, only: [:index, :show, :new, :create, :destroy] do
     resources :items, only: [:new, :create]
   end
 

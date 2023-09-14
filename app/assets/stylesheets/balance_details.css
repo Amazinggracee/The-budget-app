@@ -99,3 +99,7 @@
   width: 85px;
   margin-top: 1%;
 }
+
+.btn-danger {
+  color: red;
+}
