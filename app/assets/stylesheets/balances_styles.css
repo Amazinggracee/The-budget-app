@@ -57,7 +57,8 @@ a {
   margin: 0;
   text-decoration: none;
   color: #888;
-  font-family: "Proxima Nova Light", sans-serif; /* Apply font family */
+  font-family: "Proxima Nova Light", sans-serif;
+  /* Apply font family */
 }
 
 .balance-date {
