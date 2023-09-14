@@ -46,9 +46,8 @@ body {
   background-color: #fff;
   justify-content: center;
   align-items: center;
-    display: flex;
+  display: flex;
   flex-direction: column;
-  background-color: #f3f4f6;
 }
 
 @media (max-width: 700px) {
