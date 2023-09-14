@@ -46,6 +46,9 @@ body {
   background-color: #fff;
   justify-content: center;
   align-items: center;
+    display: flex;
+  flex-direction: column;
+  background-color: #f3f4f6;
 }
 
 @media (max-width: 700px) {
@@ -58,9 +61,14 @@ body {
   margin-bottom: 15px;
 }
 
+.field input[type="checkbox"] {
+  margin-left: 40%;
+}
+
 .field label {
   font-weight: bold;
   display: block;
+  margin-left: 40%;
 }
 
 .field input[type="text"],
@@ -91,7 +99,7 @@ body {
   border-radius: 3px;
   cursor: pointer;
   transition: background-color 0.2s;
-  margin: auto;
+  margin-left: 40%;
 }
 
 .actions input[type="submit"]:hover {
