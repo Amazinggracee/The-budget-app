@@ -131,7 +131,9 @@ bundle exec rspec spec
 ```sh
 rubocop -A
 ```
-## 🚀 Live Demo <a name="live-demo"></a>
+## 🚀 Live Demo <a name="live-demo">
+https://www.loom.com/share/b1e142f76e084f68986e84e46f52c274?sid=c45cea74-ef83-4f6c-b6b3-e420fe8ae383
+</a>
 
 - [<a href="https://the-budget.onrender.com" target="_blank">Online version</a>](#)
 
